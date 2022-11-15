@@ -1,0 +1,36 @@
+sentence,entity
+take me to room 32,room 32
+take me to room a 1,room a 1
+take me to cobot maker space,cobot maker space
+can you take me to cobot maker space,cobot maker space
+can you take me to the meeting room,meeting room
+can you take me to the living space,living space
+do you know where is the living space,living space
+where is room c 12,room c 12
+how can i go to room 1,room 1
+where is the living space,living space
+where is the living space located,living space
+where is room 2 located,room 2
+how can i get to room 1,room 1
+how can i get to cobot maker space,cobot maker space
+can you tell me the way to room 1,room 1
+can you tell me the way to the meeting room,meeting room
+can you show me where the meeting room is,meeting room
+can you show me where can I find room 3,room 3
+show me the way to the auditorium,auditorium
+take me to the auditorium,auditorium
+how can i go to the auditorium,auditorium
+i want to go to room 2,room 2
+how to get to the auditorium,auditorium
+guide me to room a 32,room a 32
+take me to the kitchen,kitchen
+where is the kitchen,kitchen
+where is the bedroom,bedroom
+show me the way to the back yard,back yard
+how can i go to the backyard,backyard
+where is suite 3,suite 3
+i would like to go to the dining room,dining room
+where is the bathroom,bathroom
+where can i find the gym,gym
+can you tell me where can i find the toilet,toilet
+where can i find the rest room,rest room

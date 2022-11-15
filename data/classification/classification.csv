@@ -1,0 +1,62 @@
+,input,class
+0,take me to room 32,Navi
+1,take me to room a 1,Navi
+2,take me to cobot maker space,Navi
+3,can you take me to cobot maker space,Navi
+4,can you take me to the meeting room,Navi
+5,can you take me to the living space,Navi
+6,do you know where is the living space,Navi
+7,where is room c 12,Navi
+8,how can i go to room 1,Navi
+9,where is the living space,Navi
+10,where is the living space located,Navi
+11,where is room 2 located,Navi
+12,how can i get to room 1,Navi
+13,how can i get to cobot maker space,Navi
+14,can you tell me the way to room 1,Navi
+15,can you tell me the way to the meeting room,Navi
+16,can you show me where the meeting room is,Navi
+17,can you show me where can I find room 3,Navi
+18,show me the way to the auditorium,Navi
+19,take me to the auditorium,Navi
+20,how can i go to the auditorium,Navi
+21,i want to go to room 2,Navi
+22,how to get to the auditorium,Navi
+23,guide me to room a 32,Navi
+24,take me to the kitchen,Navi
+25,where is the kitchen,Navi
+26,where is the bedroom,Navi
+27,show me the way to the back yard,Navi
+28,how can i go to the backyard,Navi
+29,where is suite 3,Navi
+30,i would like to go to the dining room,Navi
+31,where is the bathroom,Navi
+32,where can i find the gym,Navi
+33,can you tell me where can i find the toilet,Navi
+34,where can i find the rest room,Navi
+35,can you sit down,Comm
+36,come here,Comm
+37,sit down,Comm
+38,move forward,Comm
+39,please move forward,Comm
+40,go forward,Comm
+41,please go forward,Comm
+42,can you go forward,Comm
+43,backwards,Comm
+44,can you go backwards,Comm
+45,please go bakwards,Comm
+46,go backwards,Comm
+47,can you move backwards,Comm
+48,please go backwards,Comm
+49,backwards,Comm
+50,turn left,Comm
+51,left,Comm
+52,can you turn left,Comm
+53,please turn left,Comm
+54,right,Comm
+55,turn right,Comm
+56,can you turn right,Comm
+57,please turn right,Comm
+58,stop,Comm
+59,please stop,Comm
+60,can you stop,Comm

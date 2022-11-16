@@ -1,3 +1,8 @@
 models/model-best
 
 models/model-last
+
+
+__pycache__
+
+src/__pycache__

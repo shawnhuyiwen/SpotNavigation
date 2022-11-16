@@ -3,7 +3,7 @@ import pickle
 import sys
 sys.path.append("..")
 
-from src.classification import Models
+from src.text_processing import TFIDFModel
 from sklearn.utils import shuffle
 import pandas as pd
 from sklearn.metrics import confusion_matrix
@@ -31,7 +31,7 @@ test_data = {
               'Navi']
 }
 
-model = Models(model_dir='../models/classification', transformer_name='intent_trans.pkl', corpus_name='intent.npy')
+model = TFIDFModel(model_dir='../models/classification', transformer_name='intent_trans.pkl', corpus_name='intent.npy')
 
 df = pd.read_csv('../data/classification/classification.csv')
 df = shuffle(df)
